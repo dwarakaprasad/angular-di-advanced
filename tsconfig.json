@@ -17,11 +17,7 @@
     "lib": [
       "es2018",
       "dom"
-    ],"paths": {
-            "feature-common": [
-                "feature-common/"
-            ]
-        }
+    ]
   },
   "angularCompilerOptions": {
     "enableIvy": true,
